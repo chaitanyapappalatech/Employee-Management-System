@@ -13,7 +13,9 @@
 </p>
 
 ---
+
 ## 📚 Table of Contents
+
 - [About](#-about)
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
@@ -29,7 +31,9 @@
 - [Author](#-author)
 
 ---
+
 ## 📖 About
+
 The **Employee Management System** is a console-based application developed using **Python** and **MySQL**.
 It allows users to perform complete CRUD (Create, Read, Update, Delete) operations on employee records stored in a MySQL database, managed visually through **phpMyAdmin**.
 
@@ -43,6 +47,7 @@ This project demonstrates:
 > Designed as a beginner-friendly portfolio project — suitable for software developer interviews.
 
 ---
+
 ## ✨ Features
 
 - ✅ Add Employee
@@ -56,17 +61,20 @@ This project demonstrates:
 - ✅ Interactive Menu-Driven Application
 
 ---
+
 ## 🛠️ Technology Stack
-|    Technology        | Purpose |
+
+| Technology | Purpose |
 |---|---|
-| Python 3.x           | Programming Language |
-| MySQL                | Relational Database |
-| phpMyAdmin           | Visual Database Management |
+| Python 3.x | Programming Language |
+| MySQL | Relational Database |
+| phpMyAdmin | Visual Database Management |
 | mysql-connector-python | Python ↔ MySQL Connector |
-| VS Code              | Code Editor |
-| Git & GitHub         | Version Control |
+| VS Code | Code Editor |
+| Git & GitHub | Version Control |
 
 ---
+
 ## 📂 Project Structure
 
 ```
@@ -85,17 +93,19 @@ Employee-Management-System/
 ```
 
 ---
+
 ## 🗄️ Database Design
 
 **Database Name:** `employee_db`  
 **Table Name:** `employees`
 
-|   Column   |    Data Type       | Description 
-| id         | INT (PRIMARY KEY)  | Unique employee identifier 
-| name       | VARCHAR(50)        | Employee full name 
-| department | VARCHAR(50)        | Department name 
-| salary     | DECIMAL(10,2)      | Employee salary 
-| email      | VARCHAR(100)       | Employee email address 
+| Column | Data Type | Description |
+|---|---|---|
+| id | INT (PRIMARY KEY) | Unique employee identifier |
+| name | VARCHAR(50) | Employee full name |
+| department | VARCHAR(50) | Department name |
+| salary | DECIMAL(10,2) | Employee salary |
+| email | VARCHAR(100) | Employee email address |
 
 **SQL Script:**
 
@@ -181,12 +191,13 @@ Enter Choice:
 
 ## 🧪 Sample Record
 
-|   Field    | Value |
-| ID         | 1 |
-| Name       | Chaitanya |
+| Field | Value |
+|---|---|
+| ID | 1 |
+| Name | Chaitanya |
 | Department | IT |
-| Salary     | 50000 |
-| Email      | chaitanya@gmail.com |
+| Salary | 50000 |
+| Email | chaitanya@gmail.com |
 
 **Full test cycle:**
 ```
@@ -246,7 +257,9 @@ Aspiring Software Developer | Python Developer | SQL Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanya--sd-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaitanya-sd/)
 
 ---
+
 ## ⭐ Support
+
 If you found this project helpful:
 
 - ⭐ **Star** this repository
