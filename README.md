@@ -259,13 +259,7 @@ Aspiring Software Developer | Python Developer | SQL Developer
 ---
 
 ## ⭐ Support
-
-If you found this project helpful:
-
-- ⭐ **Star** this repository
-- 🍴 **Fork** the project
-- 📢 **Share** it with others
-
+If you found this project useful, please consider giving it a ⭐ on GitHub. Your support is appreciated and motivates future improvements.
 ---
 
 <p align="center">Made with ❤️ using Python & MySQL</p>
